@@ -58,4 +58,4 @@ client.on('messageCreate', async (message) => {
 	}
 });
 
-client.login('DISCORD_BOT_TOKEN');
+client.login('OTM0MTcxODk3NTgxNjk5MTEz.YesNYA.2AWN0czWisAlEIHkkXbdAR934ZQ');
