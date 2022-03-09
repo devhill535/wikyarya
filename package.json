@@ -22,7 +22,7 @@
 		"url": "https://github.com/WekyDev/weky-npm.git"
 	},
 	"dependencies": {
-		"chalk": "^4.1.1",
+		"chalk": "^5.0.1",
 		"html-entities": "^2.3.2",
 		"mathjs": "^9.4.3",
 		"node-fetch": "^2.6.1",
